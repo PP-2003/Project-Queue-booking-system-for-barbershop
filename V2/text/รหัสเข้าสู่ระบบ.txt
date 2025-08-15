@@ -1,0 +1,16 @@
+รหัสเข้าสู่ระบบ
+
+//customer
+
+test01
+Pp_123456
+
+//admin
+
+admin
+Baanpom_00
+
+Your user ID = U698f383ea47433b801cdc3fe05e91325
+Channel access token = KrVQ86k1lMimcrVRLL8WRrCjpqU6pM855tPD9Fs/h4yvSXDt2KW++lvXfiRXzjI2v/LeC7a60qOr+/fAtZ9gVBuPlWM3OV1Ej60JThwkMRj03PIXSPVIDZ58GBnyN91JFo5tuM7zkPeZVClMgRt3JwdB04t89/1O/w1cDnyilFU=
+
+This is your Group ID = Cadff91012e1af5f97cf8a26d0b778135
